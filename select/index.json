@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "トモダチ",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2025-12-18T09:43:39.353489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トモダチ☆★",
+      "artist": "AZU",
+      "has_synced": true,
+      "path": "select/01_トモダチ☆★_AZU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トモダチ",
+      "artist": "DADARAY",
+      "has_synced": false,
+      "path": "select/02_トモダチ_DADARAY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トモダチ/コイビト",
+      "artist": "moumoon",
+      "has_synced": true,
+      "path": "select/03_トモダチ_コイビト_moumoon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トモダチ/コイビト",
+      "artist": "moumoon",
+      "has_synced": true,
+      "path": "select/04_トモダチ_コイビト_moumoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トモダチ",
+      "artist": "ALL OFF",
+      "has_synced": true,
+      "path": "select/05_トモダチ_ALL_OFF.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トモダチ",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_トモダチ_ケツメイシ.txt"
+    }
+  ]
+}
